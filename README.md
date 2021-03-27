@@ -16,4 +16,4 @@ My **Python 3** solutions to [Google Code Jam 2021](https://codingcompetitions.w
 | B | [Moons and Umbrellas](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145) | [Python 3.7]() |  |
 | C | [Reversort Engineering](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d12d7) | [Python 3.7]() |  |
 | D | [Median Sort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1284) | [Python 3.7]() |  |
-| E | [Cheating Detection](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1155) | [Python 3.7]() |  |
+| E | [Cheating Detection](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1155) | [Python 3.7]() | Requires Numpy |
