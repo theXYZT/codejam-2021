@@ -17,3 +17,12 @@ My **Python 3** solutions to [Google Code Jam 2021](https://codingcompetitions.w
 | C | [Reversort Engineering](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d12d7) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Qualification%20Round/reversort-engineering.py) |  |
 | D | [Median Sort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1284) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Qualification%20Round/median-sort.py) |  |
 | E | [Cheating Detection](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1155) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Qualification%20Round/cheating-detection.py) | Requires Numpy |
+
+
+## [Round 1A](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d)
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| A | [Append Sort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007549e5) | [Python 3.7]() | |
+| B | [Prime Time](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007543d8) | [Python 3.7]() | |
+| C | [Hacked Exam](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/0000000000754750) | [Python 3.7]() | |
