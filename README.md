@@ -26,3 +26,12 @@ My **Python 3** solutions to [Google Code Jam 2021](https://codingcompetitions.w
 | A | [Append Sort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007549e5) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Round%201A/append-sort.py) | |
 | B | [Prime Time](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007543d8) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Round%201A/prime-time.py) | |
 | C | [Hacked Exam](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/0000000000754750) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Round%201A/hacked-exam.py) | Requires Scipy |
+
+
+## [Round 1B](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf)
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| A | [Broken Clock](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae694) | [Python 3.7]() | |
+| B | [Subtransmutation](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae4aa) | [Python 3.7]() | |
+| C | [Digit Blocks](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae37b) | [Python 3.7]() |  |
