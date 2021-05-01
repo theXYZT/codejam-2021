@@ -35,3 +35,12 @@ My **Python 3** solutions to [Google Code Jam 2021](https://codingcompetitions.w
 | A | [Broken Clock](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae694) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Round%201B/broken-clock.py) | |
 | B | [Subtransmutation](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae4aa) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Round%201B/subtransmutation.py) | |
 | C | [Digit Blocks](https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae37b) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Round%201B/digit-blocks.py) |  |
+
+
+## [Round 1C](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7)
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| A | [Closest Pick](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f00) | [Python 3.7]() | |
+| A | [Roaring Years](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f01) | [Python 3.7]() | |
+| A | [Double or NOTing](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c1139) | [Python 3.7]() | |
