@@ -41,6 +41,6 @@ My **Python 3** solutions to [Google Code Jam 2021](https://codingcompetitions.w
 
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
-| A | [Closest Pick](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f00) | [Python 3.7]() | |
-| A | [Roaring Years](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f01) | [Python 3.7]() | |
-| A | [Double or NOTing](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c1139) | [Python 3.7]() | |
+| A | [Closest Pick](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f00) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Round%201C/closest-pick.py) | |
+| A | [Roaring Years](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f01) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Round%201C/roaring-years.py) | |
+| A | [Double or NOTing](https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c1139) | [Python 3.7](https://github.com/theXYZT/codejam-2021/blob/master/Round%201C/double-or-NOTing.py) | |

@@ -24,7 +24,9 @@ def bisection(func, low, high):
 
 def solve(Y):
     result = math.inf
-    for k in range(2, max(2, len(str(Y)) + 1) + 1):
+    max_k = max(2, len(str(Y)) + 1)
+
+    for k in range(2, max_k + 1):
         n = bisection(lambda a: roaring_number(a, k) - Y, 1, 10**9)
         X = roaring_number(n, k)
 

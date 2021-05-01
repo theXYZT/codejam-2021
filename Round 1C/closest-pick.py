@@ -4,17 +4,13 @@ import itertools
 
 
 def solve(N, K, P):
-    P = sorted(set(P))
-    intervals = [y - x - 1 for x, y in zip(P, P[1:])]
+    intervals = [y - x - 1 for x, y in zip(P, P[1:]) if y > x + 1]
     winning = max(intervals, default=0)
 
-    single = [P[0] - 1, K - P[-1]]
-    for n in intervals:
-        single.append((n + 1) // 2)
+    single = [(n + 1) // 2 for n in intervals] + [P[0] - 1, K - P[-1]]
 
     for a, b in itertools.combinations(single, 2):
-        if a + b > winning:
-            winning = a + b
+        winning = max(winning, a + b)
 
     return winning / K
 
@@ -25,5 +21,5 @@ num_cases = int(input())
 for case in range(1, num_cases + 1):
     N, K = map(int, input().split())
     P = list(map(int, input().split()))
-    y = solve(N, K, P)
+    y = solve(N, K, sorted(P))
     print('Case #{}: {:.8f}'.format(case, y))
